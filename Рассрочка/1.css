@@ -1,0 +1,78 @@
+
+h4{
+    font-weight: bold;
+    font-family: Sans-Serif;
+    margin-top: 30px;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.div1{
+    width: 310px;
+    height: 450px;
+    margin-top: 350px;
+    margin-left: 1400px;
+    border: 2px solid #666262;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 230px;
+}
+
+.div2{
+    margin-top: -20px;
+    float: left;
+}
+.div3{
+    margin-top: -20px;
+    float: right;
+}
+
+
+.div4{
+    margin-top: -7px;
+    width: 17rem;
+    margin-left: 20px;
+    border-radius: 30px;
+    background-color: whitesmoke;
+}
+
+.div5{
+    margin-top: 30px;
+    width: 8rem;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+
+
+.div6{
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
